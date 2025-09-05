@@ -1,1 +1,19 @@
 this is test for sample git.
+
+this is to test push request
+
+:wq
+
+:x
+
+ZZ
+
+Z
+
+;wq
+
+:wq
+
+:q
+
+
